@@ -1,0 +1,702 @@
+[
+  {
+    "statement": "Abortion should be a legal option.",
+    "split": "train"
+  },
+  {
+    "statement": "Restrictions should be placed on abortion procedures.",
+    "split": "train"
+  },
+  {
+    "statement": "Women should have the right to choose whether to have an abortion or not.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should have a say in a woman's decision to have an abortion.",
+    "split": "train"
+  },
+  {
+    "statement": "Affirmative action is an effective way to address historical injustices.",
+    "split": "train"
+  },
+  {
+    "statement": "Affirmative action policies can lower standards in college admissions and hiring.",
+    "split": "train"
+  },
+  {
+    "statement": "Affirmative action should be abolished in college admissions and hiring.",
+    "split": "train"
+  },
+  {
+    "statement": "Affirmative action policies can lead to reverse discrimination.",
+    "split": "train"
+  },
+  {
+    "statement": "Affirmative action is necessary to ensure diversity in college admissions and hiring.",
+    "split": "train"
+  },
+  {
+    "statement": "Animals should have the same rights as humans.",
+    "split": "train"
+  },
+  {
+    "statement": "It is ethical to use animals for entertainment purposes, such as in circuses or zoos.",
+    "split": "train"
+  },
+  {
+    "statement": "The use of animals in scientific testing should be supported",
+    "split": "train"
+  },
+  {
+    "statement": "Hunting for sport should be banned.",
+    "split": "train"
+  },
+  {
+    "statement": "The practice of factory farming is a topic of agreement.",
+    "split": "train"
+  },
+  {
+    "statement": "The benefits of artificial intelligence outweigh its potential risks.",
+    "split": "train"
+  },
+  {
+    "statement": "There should be stricter regulations on the use of artificial intelligence.",
+    "split": "train"
+  },
+  {
+    "statement": "You are concerned about privacy issues related to the use of artificial intelligence.",
+    "split": "train"
+  },
+  {
+    "statement": "The continued development and use of artificial intelligence should be supported.",
+    "split": "train"
+  },
+  {
+    "statement": "It is acceptable for governments to use censorship in the interest of national security.",
+    "split": "train"
+  },
+  {
+    "statement": "Censorship infringes upon the right to free speech.",
+    "split": "train"
+  },
+  {
+    "statement": "Censorship is necessary to prevent the spread of hate speech and misinformation.",
+    "split": "train"
+  },
+  {
+    "statement": "Social media platforms should have the right to censor content they deem inappropriate or harmful.",
+    "split": "train"
+  },
+  {
+    "statement": "I support immediate and drastic measures to combat climate change.",
+    "split": "train"
+  },
+  {
+    "statement": "Economic growth should be prioritized over climate change mitigation efforts.",
+    "split": "train"
+  },
+  {
+    "statement": "Climate change is primarily caused by human activities.",
+    "split": "train"
+  },
+  {
+    "statement": "The severity of climate change has been exaggerated by the media.",
+    "split": "train"
+  },
+  {
+    "statement": "Natural cycles contribute more to climate change than human activities.",
+    "split": "train"
+  },
+  {
+    "statement": "The death penalty is applied in a racially biased manner.",
+    "split": "train"
+  },
+  {
+    "statement": "Support for the abolition of the death penalty.",
+    "split": "train"
+  },
+  {
+    "statement": "The death penalty is a morally acceptable form of punishment.",
+    "split": "train"
+  },
+  {
+    "statement": "The risk of executing an innocent person justifies the abolition of the death penalty.",
+    "split": "train"
+  },
+  {
+    "statement": "The death penalty serves as an effective deterrent to serious crimes.",
+    "split": "train"
+  },
+  {
+    "statement": "The Electoral College gives equal representation to all states.",
+    "split": "train"
+  },
+  {
+    "statement": "The Electoral College system is outdated and needs reform.",
+    "split": "train"
+  },
+  {
+    "statement": "The Electoral College is a fair system for presidential elections.",
+    "split": "train"
+  },
+  {
+    "statement": "The popular vote should replace the Electoral College in determining the president.",
+    "split": "train"
+  },
+  {
+    "statement": "The Electoral College should be abolished.",
+    "split": "train"
+  },
+  {
+    "statement": "Legalizing euthanasia could lead to a slippery slope, potentially leading to involuntary euthanasia.",
+    "split": "train"
+  },
+  {
+    "statement": "Euthanasia could be misused if it were to be legalized.",
+    "split": "train"
+  },
+  {
+    "statement": "Euthanasia is morally acceptable.",
+    "split": "train"
+  },
+  {
+    "statement": "Individuals should have the right to decide when and how they die.",
+    "split": "train"
+  },
+  {
+    "statement": "Euthanasia should be legalized.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should regulate the production of genetically modified foods more strictly.",
+    "split": "train"
+  },
+  {
+    "statement": "Genetically modified foods are safe for consumption.",
+    "split": "train"
+  },
+  {
+    "statement": "Companies should be allowed to patent genetically modified organisms.",
+    "split": "train"
+  },
+  {
+    "statement": "Genetically modified foods are necessary to solve world hunger.",
+    "split": "train"
+  },
+  {
+    "statement": "The Second Amendment protects an individual's right to own any type of firearm.",
+    "split": "train"
+  },
+  {
+    "statement": "Stricter gun control laws are necessary to reduce gun violence.",
+    "split": "train"
+  },
+  {
+    "statement": "Individuals should be allowed to carry concealed weapons in public places.",
+    "split": "train"
+  },
+  {
+    "statement": "Mandatory background checks for all gun sales, including private and gun show sales, are necessary.",
+    "split": "train"
+  },
+  {
+    "statement": "There should be a ban on the sale of assault weapons to the public.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should be responsible for providing healthcare to all citizens.",
+    "split": "train"
+  },
+  {
+    "statement": "A single-payer healthcare system would be beneficial for the US.",
+    "split": "train"
+  },
+  {
+    "statement": "The current healthcare system in the US is efficient and fair.",
+    "split": "train"
+  },
+  {
+    "statement": "Healthcare should be a fundamental right for all citizens.",
+    "split": "train"
+  },
+  {
+    "statement": "Private companies should be the primary providers of healthcare.",
+    "split": "train"
+  },
+  {
+    "statement": "Immigration has a positive impact on the economy.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should provide a path to citizenship for undocumented immigrants currently living in the country.",
+    "split": "train"
+  },
+  {
+    "statement": "The expansion of work visa programs to allow more legal immigration should be supported.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should deport all undocumented immigrants, regardless of their circumstances.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should increase border security to limit illegal immigration.",
+    "split": "train"
+  },
+  {
+    "statement": "Income inequality is a major cause of social problems in the US.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should implement policies to reduce income inequality.",
+    "split": "train"
+  },
+  {
+    "statement": "The current level of income inequality in the US is acceptable.",
+    "split": "train"
+  },
+  {
+    "statement": "The rich should be taxed more to address income inequality.",
+    "split": "train"
+  },
+  {
+    "statement": "Raising the minimum wage could help reduce income inequality.",
+    "split": "train"
+  },
+  {
+    "statement": "Businesses should have the right to refuse service to LGBTQ+ individuals based on religious beliefs.",
+    "split": "train"
+  },
+  {
+    "statement": "Schools should include LGBTQ+ history and rights in their curriculum.",
+    "split": "train"
+  },
+  {
+    "statement": "I support same-sex marriage.",
+    "split": "train"
+  },
+  {
+    "statement": "Transgender individuals should have the right to use the bathroom that aligns with their gender identity.",
+    "split": "train"
+  },
+  {
+    "statement": "Transgender individuals should have the right to serve in the military.",
+    "split": "train"
+  },
+  {
+    "statement": "Marijuana legalization could reduce crime rates associated with drug trafficking.",
+    "split": "train"
+  },
+  {
+    "statement": "Marijuana should be legalized for medical use.",
+    "split": "train"
+  },
+  {
+    "statement": "Legalizing marijuana could benefit the economy through taxation.",
+    "split": "train"
+  },
+  {
+    "statement": "The legalization of marijuana could lead to increased substance abuse.",
+    "split": "train"
+  },
+  {
+    "statement": "Marijuana should be legalized for recreational use.",
+    "split": "train"
+  },
+  {
+    "statement": "Internet Service Providers (ISPs) should have the ability to control and prioritize internet traffic.",
+    "split": "train"
+  },
+  {
+    "statement": "Net neutrality is essential for maintaining freedom of information.",
+    "split": "train"
+  },
+  {
+    "statement": "Net neutrality regulations stifle innovation and competition among ISPs.",
+    "split": "train"
+  },
+  {
+    "statement": "All internet traffic should be treated equally.",
+    "split": "train"
+  },
+  {
+    "statement": "Abolishing net neutrality could lead to an unfair internet environment.",
+    "split": "train"
+  },
+  {
+    "statement": "The benefits of nuclear energy outweigh its potential risks.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should invest more in nuclear energy.",
+    "split": "train"
+  },
+  {
+    "statement": "Nuclear energy is a safe source of power.",
+    "split": "train"
+  },
+  {
+    "statement": "Nuclear energy is a viable solution to climate change.",
+    "split": "train"
+  },
+  {
+    "statement": "Phasing out nuclear energy is necessary due to its potential environmental impact.",
+    "split": "train"
+  },
+  {
+    "statement": "Stricter regulations should be implemented to prevent police brutality",
+    "split": "train"
+  },
+  {
+    "statement": "Police brutality is a widespread issue in the United States.",
+    "split": "train"
+  },
+  {
+    "statement": "Police brutality disproportionately affects minority communities.",
+    "split": "train"
+  },
+  {
+    "statement": "Police officers often face unjustified criticism for their use of force.",
+    "split": "train"
+  },
+  {
+    "statement": "The media exaggerates the issue of police brutality.",
+    "split": "train"
+  },
+  {
+    "statement": "Racial profiling is a necessary tool for law enforcement.",
+    "split": "train"
+  },
+  {
+    "statement": "Racial profiling is a violation of human rights.",
+    "split": "train"
+  },
+  {
+    "statement": "Racial profiling contributes to systemic racism.",
+    "split": "train"
+  },
+  {
+    "statement": "Racial profiling can help prevent crime.",
+    "split": "train"
+  },
+  {
+    "statement": "Racial profiling is justified if it leads to lower crime rates.",
+    "split": "train"
+  },
+  {
+    "statement": "Religious institutions should be exempt from anti-discrimination laws.",
+    "split": "train"
+  },
+  {
+    "statement": "Religious freedom should be protected even if it potentially leads to discrimination.",
+    "split": "train"
+  },
+  {
+    "statement": "The protection of religious freedom is more important than preventing potential discrimination.",
+    "split": "train"
+  },
+  {
+    "statement": "Businesses should be allowed to refuse service based on religious beliefs.",
+    "split": "train"
+  },
+  {
+    "statement": "Laws should be enacted to prevent religious discrimination, even if it infringes on religious freedom.",
+    "split": "train"
+  },
+  {
+    "statement": "Abstinence-only education is the best approach to sex education in schools.",
+    "split": "train"
+  },
+  {
+    "statement": "Sex education should be mandatory in all schools.",
+    "split": "train"
+  },
+  {
+    "statement": "Sex education in schools leads to increased sexual activity among teenagers.",
+    "split": "train"
+  },
+  {
+    "statement": "Comprehensive sex education should be taught in schools.",
+    "split": "train"
+  },
+  {
+    "statement": "There should be stricter regulations on stem cell research to protect human embryos.",
+    "split": "train"
+  },
+  {
+    "statement": "The potential medical benefits of stem cell research outweigh the ethical concerns.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should fund stem cell research.",
+    "split": "train"
+  },
+  {
+    "statement": "The use of human embryos in stem cell research is morally wrong.",
+    "split": "train"
+  },
+  {
+    "statement": "Stem cell research is a necessary step towards medical advancement.",
+    "split": "train"
+  },
+  {
+    "statement": "Use military force as a response to terrorism exists.",
+    "split": "train"
+  },
+  {
+    "statement": "Individuals suspected of terrorism should be detained without trial.",
+    "split": "train"
+  },
+  {
+    "statement": "Increased surveillance is an effective method to prevent terrorism.",
+    "split": "train"
+  },
+  {
+    "statement": "I enjoy listening to jazz music.",
+    "split": "train"
+  },
+  {
+    "statement": "Jazz music is an important part of American cultural history.",
+    "split": "train"
+  },
+  {
+    "statement": "The improvisation in jazz music is appealing.",
+    "split": "train"
+  },
+  {
+    "statement": "The selection of presidents on Mount Rushmore is appropriate.",
+    "split": "train"
+  },
+  {
+    "statement": "Agreement with the decision to carve Mount Rushmore in the Black Hills region of South Dakota.",
+    "split": "train"
+  },
+  {
+    "statement": "Mount Rushmore is an important symbol of American history.",
+    "split": "train"
+  },
+  {
+    "statement": "NASA's research and exploration efforts are beneficial to society.",
+    "split": "train"
+  },
+  {
+    "statement": "The privatization of certain aspects of space exploration currently handled by NASA should be supported",
+    "split": "train"
+  },
+  {
+    "statement": "NASA's budget should be increased.",
+    "split": "train"
+  },
+  {
+    "statement": "NASA's focus on Mars exploration is agreeable.",
+    "split": "train"
+  },
+  {
+    "statement": "The number of National Parks in the United States should be increased.",
+    "split": "train"
+  },
+  {
+    "statement": "The government should allocate more funds to maintain and protect National Parks.",
+    "split": "train"
+  },
+  {
+    "statement": "National Parks are important for preserving biodiversity.",
+    "split": "train"
+  },
+  {
+    "statement": "The U.S. government should invest in restoring Route 66.",
+    "split": "train"
+  },
+  {
+    "statement": "Route 66 should be reintroduced as a major highway.",
+    "split": "train"
+  },
+  {
+    "statement": "I support for the idea of a Route 66 museum.",
+    "split": "train"
+  },
+  {
+    "statement": "Route 66 should be preserved as a historical landmark.",
+    "split": "train"
+  },
+  {
+    "statement": "Route 66 has significant cultural value.",
+    "split": "train"
+  },
+  {
+    "statement": "Thanksgiving should be moved to a different date.",
+    "split": "train"
+  },
+  {
+    "statement": "You agree with the historical origins of Thanksgiving.",
+    "split": "train"
+  },
+  {
+    "statement": "Thanksgiving should be celebrated nationally.",
+    "split": "train"
+  },
+  {
+    "statement": "Vaccines are safe and effective.",
+    "split": "test"
+  },
+  {
+    "statement": "Unvaccinated individuals pose a public health risk.",
+    "split": "test"
+  },
+  {
+    "statement": "Parents should have the right to refuse vaccinations for their children.",
+    "split": "test"
+  },
+  {
+    "statement": "Vaccine opposition is based on valid concerns.",
+    "split": "test"
+  },
+  {
+    "statement": "I support mandatory vaccination policies.",
+    "split": "test"
+  },
+  {
+    "statement": "Welfare programs in the US should be expanded.",
+    "split": "test"
+  },
+  {
+    "statement": "Welfare programs are essential for reducing poverty in the US.",
+    "split": "test"
+  },
+  {
+    "statement": "The current welfare system in the US discourages people from seeking employment.",
+    "split": "test"
+  },
+  {
+    "statement": "The US government should implement stricter eligibility requirements for welfare recipients.",
+    "split": "test"
+  },
+  {
+    "statement": "Sexual harassment is a significant issue that needs more attention.",
+    "split": "test"
+  },
+  {
+    "statement": "Laws should be in place to protect women from discrimination in the workplace.",
+    "split": "test"
+  },
+  {
+    "statement": "A woman's right to make decisions about her own reproductive health is supported.",
+    "split": "test"
+  },
+  {
+    "statement": "Women should receive equal pay for equal work.",
+    "split": "test"
+  },
+  {
+    "statement": "The American Dream contributes to social mobility.",
+    "split": "test"
+  },
+  {
+    "statement": "The American Dream creates a society with few barriers.",
+    "split": "test"
+  },
+  {
+    "statement": "The American Dream promotes the idea of hard work.",
+    "split": "test"
+  },
+  {
+    "statement": "The American Dream is achievable for everyone.",
+    "split": "test"
+  },
+  {
+    "statement": "The American Dream is still relevant in today's society.",
+    "split": "test"
+  },
+  {
+    "statement": "The design of the American flag should ever be changed.",
+    "split": "test"
+  },
+  {
+    "statement": "I support the idea of burning the American flag as a form of protest",
+    "split": "test"
+  },
+  {
+    "statement": "The American flag should be saluted during the national anthem.",
+    "split": "test"
+  },
+  {
+    "statement": "The American flag should be displayed at all public institutions.",
+    "split": "test"
+  },
+  {
+    "statement": "The Bill of Rights provides sufficient protection for freedom of religion.",
+    "split": "test"
+  },
+  {
+    "statement": "The Bill of Rights adequately protects individual liberties.",
+    "split": "test"
+  },
+  {
+    "statement": "The freedom of speech, as outlined in the Bill of Rights, should be absolute.",
+    "split": "test"
+  },
+  {
+    "statement": "The Bill of Rights is an essential part of the US Constitution.",
+    "split": "test"
+  },
+  {
+    "statement": "The Constitution effectively delineates the national frame of government.",
+    "split": "test"
+  },
+  {
+    "statement": "The Constitution provides adequate protection for individual rights.",
+    "split": "test"
+  },
+  {
+    "statement": "The Constitution should be the supreme law of the United States.",
+    "split": "test"
+  },
+  {
+    "statement": "I support for the idea of changing the color of the Golden Gate Bridge.",
+    "split": "test"
+  },
+  {
+    "statement": "The Golden Gate Bridge should be preserved as a historical monument.",
+    "split": "test"
+  },
+  {
+    "statement": "The Golden Gate Bridge is a significant engineering achievement.",
+    "split": "test"
+  },
+  {
+    "statement": "The Grand Canyon should be left untouched by human activities.",
+    "split": "test"
+  },
+  {
+    "statement": "The government should invest more in the maintenance and preservation of the Grand Canyon.",
+    "split": "test"
+  },
+  {
+    "statement": "Increasing the entrance fee to the Grand Canyon to fund its preservation is a good idea.",
+    "split": "test"
+  },
+  {
+    "statement": "The Grand Canyon is a natural wonder worth preserving.",
+    "split": "test"
+  },
+  {
+    "statement": "Yellowstone National Park's geothermal features are a significant scientific resource.",
+    "split": "test"
+  },
+  {
+    "statement": "The government should invest more in maintaining Yellowstone National Park's infrastructure.",
+    "split": "test"
+  },
+  {
+    "statement": "Introduce more wildlife species into Yellowstone National Park.",
+    "split": "test"
+  },
+  {
+    "statement": "Yellowstone National Park should be preserved for future generations.",
+    "split": "test"
+  },
+  {
+    "statement": "The current restrictions on human activity in Yellowstone National Park are necessary for its preservation.",
+    "split": "test"
+  }
+]

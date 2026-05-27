@@ -1,0 +1,27 @@
+[project]
+name = "functional-welfare-axis"
+version = "0.1.0"
+description = "Post-training recruits a generic 'something wrong' axis in LLM activations"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+authors = [
+    { name = "Andy Han" },
+    { name = "Pavel Izmailov" },
+]
+dependencies = [
+    "pyarrow>=22.0.0",
+    "torch>=2.0.0",
+    "transformers>=4.40.0",
+    "peft>=0.10.0",
+    "pandas>=2.0.0",
+    "tqdm>=4.60.0",
+    "scikit-learn>=1.0.0",
+    "emoji>=2.15.0",
+    "trl>=0.12.0",
+    "matplotlib>=3.10.8",
+    "adjusttext>=1.3.0",
+    "google-genai>=1.73.1",
+    "python-dotenv>=1.2.2",
+    "wandb>=0.27.0",
+]

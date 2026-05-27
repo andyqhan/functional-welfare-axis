@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.python-version
+
+# OS
+.DS_Store
+
+# Training outputs
+runs/
+logs/
+outputs/
+models/
+
+# W&B local cache
+wandb/
+
+# Generated datasets
+datasets/*.parquet
+!datasets/maze_train.parquet
+!datasets/maze_val.parquet
+!datasets/maze_test.parquet
+datasets/*.tsv
+datasets/sft/
+
+# SLURM output files
+*.out
+
+# Artifacts
+artifacts/
+
+# Emotion extraction artifacts
+emotions/artifacts/
+
+# Claude Code
+.claude/

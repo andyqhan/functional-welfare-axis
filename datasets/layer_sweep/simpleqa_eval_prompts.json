@@ -1,0 +1,2002 @@
+[
+  {
+    "prompt": "What Toronto Library collection was established in 1977, named after the children's librarian and head of the TPL?",
+    "category": "Art",
+    "target": "The Jean Thomson Collection of Original Art",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What flowers were shown in artist J.C. Leyendecker's May 30, 1914, \"The Saturday Evening Post\" cover?",
+    "category": "Art",
+    "target": "Hyacinths",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the seminal film that Lygia Pape made in 1975 focusing on gender and sexuality?",
+    "category": "Art",
+    "target": "Eat Me",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What kind of factory did Anselm Kiefer transform into a studio in 1992?",
+    "category": "Art",
+    "target": "Silk factory.",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What year was Nigerian artist Uzo Njoku born?",
+    "category": "Art",
+    "target": "1996",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the Spring-Summer 1984 collection by Vivienne Westwood?",
+    "category": "Art",
+    "target": "Hypnos",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many livres did artist Jean-Antoine Watteau sell his painting \"Camp-fire\" first to Sirois for?",
+    "category": "Art",
+    "target": "60 livres (acceptable range: anything between 58 and 62 livres)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In 2014, who took over development of the Brooding language for the Riddlesbrood Touring Theater Company?",
+    "category": "Art",
+    "target": "BenJamin P. Johnson",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the primary performance by Marina Abramovi\u0107 and Uwe Laysiepen that was re-enacted in 2010?",
+    "category": "Art",
+    "target": "Imponderabilia",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the sculpture Louise Bourgeois created in 1955?",
+    "category": "Art",
+    "target": "One and Others",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what subject did photographer Kemka Ajoku attain a bachelor's degree in 2020?",
+    "category": "Art",
+    "target": "Mechanical Engineering",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What year did Yohji Yamamoto's mother sell her dressmaking shop?",
+    "category": "Art",
+    "target": "1972",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many photographs comprise Isa Genzken's Der Spiegel?",
+    "category": "Art",
+    "target": "121 (acceptable range: anything between 119 and 123)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the sculptor who created the war memorial, a twenty-two-and-a-half-foot statue of bronze and granite depicting a Canadian soldier in battle dress, in Brockville, Ontario, that was unveiled in 1924?",
+    "category": "Art",
+    "target": "Nicholas Pirotton",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year was Anna Yuryevna Netrebko named \"People's Artist of Russia\"?",
+    "category": "Art",
+    "target": "2008",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which art dealership did Peter Arrell Browne Widener buy \"Portrait of Elena Grimaldi Cattaneo\" from in 1906?",
+    "category": "Art",
+    "target": "Knoedler",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who created Ida Mntwana's bronze statue?",
+    "category": "Art",
+    "target": "Sarah Lovejoy",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the accession number given by the Metropolitan Museum of Art for Hendrick Goltzius' \"Farnese Hercules\"?",
+    "category": "Art",
+    "target": "17.37.59",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the first palace in Rome to be erected from the ground up in the new Renaissance style?",
+    "category": "Art",
+    "target": "The Palazzo della Cancelleria",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who was the father of the Russian stage actress and singer \"Baroness Olga Vadimovna von Root?\"",
+    "category": "Art",
+    "target": "Baron Vadim Nikolayevich von Root",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many dollars did artist J.C. Leyendecker's painting \"Carousel Ride\" sell for in December 2020?",
+    "category": "Art",
+    "target": "516,100 dollars",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many of his early oil portraits did English sculptor Robert Adams exhibit in the Northampton Public Library in April 1946?",
+    "category": "Art",
+    "target": "14",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the architect who rebuilt Dalby Hall in Lincolnshire for J. W. Preston in 1856 after the home was destroyed by fire?",
+    "category": "Art",
+    "target": "James Fowler",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Norman Rockwell was hired as the art director of what publication while in his teens?",
+    "category": "Art",
+    "target": "Boys' Life",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of Helmut Lang's solo exhibition in New York in 2017?",
+    "category": "Art",
+    "target": "Helmut Lang: new work",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which year did Dina Nath Walli (an Indian watercolor artist and poet from Srinagar city) return to Srinagar, where he concentrated on landscape painting in watercolors?",
+    "category": "Art",
+    "target": "1936",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the play in which entertainer/artist/actor Charles Marchand (1890-1930) made his first public appearance in Ottawa in 1910?",
+    "category": "Art",
+    "target": "Fleur d\u2019ajonc",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Name the village in Iran from which Tilla embroidery originated.",
+    "category": "Art",
+    "target": "Zari.",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What's the painting by Munch called with a tired girl lying on a bed painted in 1894?",
+    "category": "Art",
+    "target": "The Day After",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "According to the 2012 municipal census, how many people live in Shawnee Slopes?",
+    "category": "Geography",
+    "target": "1565 (acceptable range: anything between 1549 and 1581)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the forest cover area of Sikkim in square kilometers according to the interpretation of IRS Resourcesat-2 LISS III satellite data from 2017?",
+    "category": "Geography",
+    "target": "3,342.49 (acceptable range: anything between 3309.07 and 3375.91 square kilometers)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What's the first typhoon of the 2019 Pacific typhoon season called?",
+    "category": "Geography",
+    "target": "Wutip",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the Venezuelan state in which Mar\u00eda Teresa Castillo was born in 1908?",
+    "category": "Geography",
+    "target": "Miranda.",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "According to Wikipedia, how many feet above sea level is the Getty Center?",
+    "category": "Geography",
+    "target": "900 (acceptable range: anything between 891 and 909)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "According to the 2011 Nepal census, what percentage of the population of Nepal speaks Urdu?",
+    "category": "Geography",
+    "target": "2.61% (acceptable range: anything between 2.58% and 2.64%)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In the 2020 census, what was the population of Boliney, Abra, Philippines?",
+    "category": "Geography",
+    "target": "4551 (acceptable range: anything between 4505 and 4597)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "According to the last population update in 2010, the rural locality of Taz Russky in the Klyapovskoye Rural Settlement of Russia has a population of what?",
+    "category": "Geography",
+    "target": "175 (acceptable range: anything between 173 and 177)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "From which university did geographer Wilbur Zelinsky receive his master's degree?",
+    "category": "Geography",
+    "target": "University of Wisconsin",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "For how many years was the original Omsund Bridge in Kristiansund, Norway, in use?",
+    "category": "Geography",
+    "target": "41",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": true
+    }
+  },
+  {
+    "prompt": "On what month, day, and year was the cave known as Ursa Minor first discovered in Sequoia National Park, California, United States?",
+    "category": "Geography",
+    "target": "August 19, 2006",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "According to the 2021 World Bank data, which country has the largest renewable freshwater resources per capita?",
+    "category": "Geography",
+    "target": "Iceland",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the original name of Forthton, Ontario, located north of Brockville on Highway 29 at the intersection of Hwy 42, before Postmaster E. H. Whitmarsh changed the original name to Unionville in 1831?",
+    "category": "Geography",
+    "target": "Stone's Corner",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the length in meters of Abdullah Bridge in Srinagar including the fly-over and viaduct?",
+    "category": "Geography",
+    "target": "390 metres (acceptable range: anything between 386 and 394 metres)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which was the second largest republic in the Soviet Union by area?",
+    "category": "Geography",
+    "target": "Kazakh Soviet Socialist Republic",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which city and province was David Sweet born?",
+    "category": "Geography",
+    "target": "Kingston, Ontario",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the city where Whitt L. Moreland was born?",
+    "category": "Geography",
+    "target": "Waco",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Within how many minutes of the initial earthquake was an aftershock of 6.6 Mw experienced during the April 2015 earthquake that happened in Nepal?",
+    "category": "Geography",
+    "target": "34 (acceptable range: anything between 33 and 35)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": true,
+      "requires_reasoning": true
+    }
+  },
+  {
+    "prompt": "Which interstate is located near Ramby Avenue, where the KTCZ-FM transmitter on the KMSP Tower is located?",
+    "category": "Geography",
+    "target": "Interstate 694",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which NYC borough was pharmacist David Morris Kern born?",
+    "category": "Geography",
+    "target": "Manhattan",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the longitude of Lilongwe in decimal format?",
+    "category": "Geography",
+    "target": "33.7738 (acceptable range: anything between 33.7586 and 33.8022)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "At the 2006 National Census, what was the population of Sonqorabad, Alborz, in 337 households?",
+    "category": "Geography",
+    "target": "1376 (acceptable range: anything between 1362 and 1390)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": true,
+      "requires_reasoning": true
+    }
+  },
+  {
+    "prompt": "On 15 May 1946, who commissioned the USCGC Eagle (WIX-327) into the United States Coast Guard?",
+    "category": "History",
+    "target": "Gordon McGowan",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What were the month, day, and year Anne Morgan was first styled Baroness Hunsdon?",
+    "category": "History",
+    "target": "January 13, 1559",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the first and last name of Margaret Bourchier, Countess of Bath's first husband?",
+    "category": "History",
+    "target": "Thomas Kitson",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who became the first Indian to be appointed as Professor of Mathematics and Natural Philosophy at Elphinstone College in Bombay?",
+    "category": "History",
+    "target": "Dadabhai Naoroji",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What day, month, and year was the first ride on the White Mountain Central Railroad in New Hampshire?",
+    "category": "History",
+    "target": "30 July 1958",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year was Ben Bogard ordained as a Baptist minister?",
+    "category": "History",
+    "target": "1887",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In June 1637, Thomas Ballard of Wandsworth accused Richard Kestian of publicly calling him a liar at which man's house in Putney in front of justices of the peace?",
+    "category": "History",
+    "target": "Sir Abraham Dawes",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the location where the stone came from to replace the 199 wooden steps at Whitby Abbey in 1774?",
+    "category": "History",
+    "target": "Sneaton",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many deaths were caused by an amoebic dysentery outbreak at the Century of Progress World's Fair?",
+    "category": "History",
+    "target": "98 (acceptable range: anything between 97 and 99)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the Andalusi poet Mansa Musa met on his return journey from his pilgrimage to Mecca between 1324 and 1325?",
+    "category": "History",
+    "target": "Abu Ishaq al-Sahili.",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "While Henri d'Angoul\u00eame served as the governor of Provence, who was his secretary?",
+    "category": "History",
+    "target": "Fran\u00e7ois de Malherbe.",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who played baritone saxophone on the 1958 album *Basie Reunion*?",
+    "category": "Music",
+    "target": "Jack Washington",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What album is the song \"God Is Alive, Magic Is Afoot\" by Chris Thile on?",
+    "category": "Music",
+    "target": "Laysongs",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What specific day, month, and year was Beyonc\u00e9's album \"Lemonade\" certified platinum by the British Phonographic Industry?",
+    "category": "Music",
+    "target": "9, September 2016",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which was the first Indian album to have more than 1 billion streams on Spotify?",
+    "category": "Music",
+    "target": "Moosetape",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who is known as the first rock star of the Middle East?",
+    "category": "Music",
+    "target": "Lydia Canaan",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the street address of the building where the first meeting of the Gay Men's Chorus of Washington, D.C., was held in 1981?",
+    "category": "Music",
+    "target": "1469 Church Street NW",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is Donnie McClurkin's son's name?",
+    "category": "Music",
+    "target": "Matthew McClurkin",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year was Phillip Paul Bliss, famous Christian songwriter, appointed as a teacher in the Rome, Pennsylvania Academy?",
+    "category": "Music",
+    "target": "1858",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who was the Friday night headliner of ArcTanGent 2013 on the Arc stage?",
+    "category": "Music",
+    "target": "65daysofstatic",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Where did the Third Day song \"Nothing at All\" peak on the Billboard rock charts?",
+    "category": "Music",
+    "target": "34",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what church was the organ installed in 2000 at St. John's Church, Gateshead Fell, previously located?",
+    "category": "Music",
+    "target": "St Aidan's Church, Blackhill, Consett",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year were the first Zildjian cymbals created?",
+    "category": "Music",
+    "target": "1618",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which parochial school did Harry Belafonte attend?",
+    "category": "Music",
+    "target": "St. Charles Borromeo",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the man buried at Paddington Cemetery in London in 1767, with an epitaph that reads, \"Tho' sweet as Orpheus thou couldst bring / Soft pleadings from the trembling string\"?",
+    "category": "Music",
+    "target": "Matthew Dubourg",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what month and year did Ronnie Milsap first move to Nashville?",
+    "category": "Music",
+    "target": "December 1972",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which month and year was Bob Rusay dismissed from Cannibal Corpse?",
+    "category": "Music",
+    "target": "February 1993",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what key was \"I Offer My Life\" by Don Moen composed?",
+    "category": "Music",
+    "target": "F Major",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What are the first name and surname of the woman who was voted 17th in the Top 100 Great South Africans in 2004?",
+    "category": "Music",
+    "target": "Brenda Fassie",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What type of wood was the case of the Yamaha DX1 (1983) made from?",
+    "category": "Music",
+    "target": "Brazilian rosewood",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "When was the album \"When the Sun Goes Down\" by Selena Gomez released in Japan (specific day, month, and year)?",
+    "category": "Music",
+    "target": "14 September 2011",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "From which university did David Hibbett receive his Bachelor of Arts degree?",
+    "category": "Other",
+    "target": "University of Massachusetts Amherst",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Name the dentist who died in May 2019 after being injured in an elevator crash at the Dr. Bhau Daji Lad Museum (BDL) in Mumbai on April 28.",
+    "category": "Other",
+    "target": "Dr Arnavaz Havewalla",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "At what university was Kuo Tsai Chen appointed as an instructor after having been awarded his doctorate?",
+    "category": "Other",
+    "target": "Princeton University",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what grade was the model and actress Hunter Schafer diagnosed with gender dysphoria?",
+    "category": "Other",
+    "target": "9th",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which school did Carl Van Vechten graduate from in 1898?",
+    "category": "Other",
+    "target": "Washington High School.",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "From which university did Raissa M. D'Souza complete her B.S. in physics?",
+    "category": "Other",
+    "target": "University of Illinois at Urbana\u2013Champaign.",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which university did Ritesh Batra attend but drop out of?",
+    "category": "Other",
+    "target": "New York University",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the common-law husband of the Indian-Canadian serial killer Simmi Kahlon?",
+    "category": "Other",
+    "target": "Harnek Mahal",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What school was Aleister Crowley first sent to at the age of 8?",
+    "category": "Other",
+    "target": "H. T. Habershon's evangelical Christian boarding school",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the first vampire number in recreational mathematics obtained by a 3x3-digit multiplication?",
+    "category": "Other",
+    "target": "102510",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the director of the Clayman Institute for Gender Research in 1994?",
+    "category": "Other",
+    "target": "Iris Litt",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the title of Thomas Callister Hales' Ph.D. dissertation from Princeton University in 1986?",
+    "category": "Other",
+    "target": "The Subregular Germ of Orbital Integrals",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who won the ICA's Hall Medal in 2011?",
+    "category": "Other",
+    "target": "Olga Polverino",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what day, month, and year did the Winnipeg Free Press cease publishing its regular Sunday edition?",
+    "category": "Other",
+    "target": "1 November 2009",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which specific issue did Black Condor II perish?",
+    "category": "Other",
+    "target": "Infinite Crisis #1",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "From what university did John P. Sall receive an honorary doctorate in 2003?",
+    "category": "Other",
+    "target": "North Carolina State University",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the journal that Gloria Niemeyer Francke was the associate editor of from 1944 to 1964?",
+    "category": "Other",
+    "target": "American Journal of Hospital Pharmacy",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was Yoido Full Gospel Church's membership in 1968?",
+    "category": "Other",
+    "target": "8000 (acceptable range: anything between 7920 and 8080)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which streamer won the \"Best Variety Streamer\" award at The Streamer Awards in 2022?",
+    "category": "Other",
+    "target": "moistcr1tikal",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the name of the first elephant born in Valencia Bioparc?",
+    "category": "Other",
+    "target": "Makena",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who was the 60th Governor of North Carolina?",
+    "category": "Politics",
+    "target": "J. Melville Broughton",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which high school did former Assistant Secretary of Commerce and Labor Frank Bestow Wiborg attend?",
+    "category": "Politics",
+    "target": "Chickering Scientific and Classical Institute",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In 2022, on which date and month was the news channel 'World Is One News' (WION) blocked from YouTube for \"violating YouTube's community guidelines\" regarding the \"Russia-Ukraine War\"?",
+    "category": "Politics",
+    "target": "22 March",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who is the father of the Aruban politician Dangui Oduber?",
+    "category": "Politics",
+    "target": "Nelson Oduber",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which is the first state in India to operationalize an ABDM microsite under the 100 Microsites Project by the National Health Authority?",
+    "category": "Politics",
+    "target": "Mizoram",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year was Alain Stank\u00e9 made a Knight of the National Order of Quebec?",
+    "category": "Politics",
+    "target": "2003",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which day, month, and year did former Vice President of Ghana Kow Nkensen Arkaah die?",
+    "category": "Politics",
+    "target": "25 April 2001",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who was the first Tunisian president to be elected by universal suffrage after the 2011 revolution?",
+    "category": "Politics",
+    "target": "Beji Caid Essebsi",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year was Whig politician James Vernon the Younger appointed an extra clerk of Her Majesty's Most Honourable Privy Council?",
+    "category": "Politics",
+    "target": "1697",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the town in which American politician Charles Allen Parker Bartlett was born in 1880?",
+    "category": "Politics",
+    "target": "Concord, Massachusetts",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the number of the executive order that created the Federal Theatre Project?",
+    "category": "Politics",
+    "target": "7034",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what day, month, and year (in A.D.) was the Rastriya Prajatantra Party, a constitutional monarchist and Hindu nationalist political party in Nepal, founded?",
+    "category": "Politics",
+    "target": "29 May 1990",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "From which university in the District of Columbia did New York State Representative Andrew Garbarino earn a Bachelor of Arts degree in History and Classical Humanities?",
+    "category": "Politics",
+    "target": "George Washington University",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which country was the 4th edition of the ASEAN-India Grassroots Innovation Forum (AIGIF) launched?",
+    "category": "Politics",
+    "target": "Malaysia",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which year was John B. Mortimer appointed a Judge of the High Court of Hong Kong?",
+    "category": "Politics",
+    "target": "1985",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was Jeffrey Epstein's released bond in dollars on July 27, 2006, at the Palm Beach County jail?",
+    "category": "Politics",
+    "target": "$3,000 bond",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which year was Leonard P. Zakim first involved in the reelection campaign of Michael Dukakis?",
+    "category": "Politics",
+    "target": "1978",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which Vermont town was politician Charles Jairus Adams born in 1917?",
+    "category": "Politics",
+    "target": "Randolph, Orange County",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which month and year was William Harrison Standley appointed as the American Ambassador to the USSR?",
+    "category": "Politics",
+    "target": "February 1942",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What percentage of voters were against the constitutional referendum held in Ghana on April 27, 1960?",
+    "category": "Politics",
+    "target": "11.53% (acceptable range: anything between 11.41% and 11.65%)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What percentage of the electoral vote did Georges Marrane win in the 1958 French Presidential election?",
+    "category": "Politics",
+    "target": "13.03% (acceptable range: anything between 12.90 and 13.16%)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which school did Lyndon B. Johnson briefly teach in Pearsall?",
+    "category": "Politics",
+    "target": "Pearsall High School",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which soldier was conferred with the \"Points of Light Honour\" by British Prime Minister Rishi Sunak?",
+    "category": "Politics",
+    "target": "Rajindar Singh Dhatt",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of Daniel arap Moi's mother?",
+    "category": "Politics",
+    "target": "Kabon",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which month and year did Khusro Bakhtiar (former Federal Minister for Planning, Development, and Reforms, Pakistan) announce that the government was considering establishing a Pak-China business council to promote the private sector's role in the China-Pakistan Economic Corridor (CPEC)?",
+    "category": "Politics",
+    "target": "June 2019",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which year was Dr. Abu Baker Asvat awarded the Order of Luthuli in Silver by President Cyril Ramaphosa?",
+    "category": "Politics",
+    "target": "2021",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What name was given to the boardroom at Staffordshire University Students' Union in honor of Dulcie September in October 2011?",
+    "category": "Politics",
+    "target": "September Room",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who was the 2nd chairman of the Senate of Pakistan?",
+    "category": "Politics",
+    "target": "Ghulam Ishaq Khan",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what date, month, and year was the Indian politician T. M. Selvaganapathy acquitted by the High Court in connection to the Pleasant Stay hotel case?",
+    "category": "Politics",
+    "target": "4 December 2001",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "From which university did the Surgeon General of California, Diana Ramos, earn her bachelor's degree?",
+    "category": "Politics",
+    "target": "University of Southern California.",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the university where Michaela H\u00fcbschle (born as Michaela Kuntze), a Namibian politician and former Deputy Minister for Prisons and Correctional Services, first studied after attending school in her hometown?",
+    "category": "Politics",
+    "target": "University of Pretoria",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "The 16th North East Region Commonwealth Parliamentary Association (NERCPA) conference started in which city?",
+    "category": "Politics",
+    "target": "IMPHAL",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What years was Antonio de Padua Mar\u00eda Severino L\u00f3pez de Santa Anna y P\u00e9rez de Lebr\u00f3n vice president?",
+    "category": "Politics",
+    "target": "1837 to 1839",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what month, day, and year did Ketanji Brown Jackson's service as a circuit judge end?",
+    "category": "Politics",
+    "target": "29 June 2022",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the political unit where Abdul Bari, an Indian academic and social reformer who sought to bring about social reform in Indian society, served as president from 1946 until his death?",
+    "category": "Politics",
+    "target": "Bihar Pradesh (or \"Provincial\") Congress Committee",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the fuselage length of the Bell 430 rotorcraft in meters?",
+    "category": "Science and technology",
+    "target": "13.44 m (acceptable range: anything between 13.30 and 13.58 m)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year did the biochemist Mildred Cohn receive the Golden Plate Award from the American Academy of Achievement?",
+    "category": "Science and technology",
+    "target": "1984",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What were the month and year when Telegram introduced animated emoji?",
+    "category": "Science and technology",
+    "target": "August 2019",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the binomial name of Acidalia virginaria?",
+    "category": "Science and technology",
+    "target": "Scopula modicaria",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What surname of a mathematician is engraved on the Eiffel Tower at location NW06?",
+    "category": "Science and technology",
+    "target": "LAGRANGE",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which year was the Kangri cancer effect first studied?",
+    "category": "Science and technology",
+    "target": "1866",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What year was \"Discussion sur l\u2019\u00e9volution de l\u2019univers\" by Georges Lemaitre published?",
+    "category": "Science and technology",
+    "target": "1933",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the surname of the individual who won the Faraday Lectureship Prize, previously known as the Faraday Lectureship, in 1970?",
+    "category": "Science and technology",
+    "target": "Herzberg",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year did Galip Ulsoy receive the Charles Russ Richards Memorial Award from ASME and Pi Tau Sigma?",
+    "category": "Science and technology",
+    "target": "2013",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In 1863, George Bentham renamed *Cyanothamnus ramosus* to what binomial name?",
+    "category": "Science and technology",
+    "target": "Boronia ramosa",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the first and last name of the recipient of the Annie Jump Cannon Award in Astronomy in 1952?",
+    "category": "Science and technology",
+    "target": "Ida Barney",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "At which U.S. observatory was 66 Maja discovered?",
+    "category": "Science and technology",
+    "target": "Harvard College Observatory",
+    "metadata": {
+      "answer_type": "Place",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the year when the Express Tribune (newspaper) reported, \"The Aga Khan University Hospital has become the first medical center to introduce the new advanced brain surgery technology, Neuro-Robotic Exoscope, in Pakistan\"?",
+    "category": "Science and technology",
+    "target": "2016",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of India's first nano-satellite?",
+    "category": "Science and technology",
+    "target": "Jugnu",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Specify the day, month, and year Canon introduced two new UHDgc 2/3-inch Portable Zoom Lenses designed for 4K UHD broadcast cameras.",
+    "category": "Science and technology",
+    "target": "April 2, 2019",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who drew a map of 64 stars of the Pleiades from his observations in 1779 and then published it in 1786?",
+    "category": "Science and technology",
+    "target": "Edme-S\u00e9bastien Jeaurat",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the original scientific name given to *Calytrix acutifolia* by John Lindley in 1839?",
+    "category": "Science and technology",
+    "target": "Lhotskya acutifolia",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which American chemist was the first female president of the Electrochemical Society?",
+    "category": "Science and technology",
+    "target": "Joan Berkowitz",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the zoologist who formally described the brown cuckoo-dove in 1821?",
+    "category": "Science and technology",
+    "target": "Coenraad Jacob Temminck",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What battery does the G-Shock GG-B100-8A come with?",
+    "category": "Science and technology",
+    "target": "CR2025",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In what year was the beetle species Glipa andamana described?",
+    "category": "Science and technology",
+    "target": "1941",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What year did the University of Michigan begin development of the MICRO Information Management System based on D.L. Childs' Set-Theoretic Data model?",
+    "category": "Science and technology",
+    "target": "1970",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the ChemSpider ID of diazepam?",
+    "category": "Science and technology",
+    "target": "2908",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the Thermal Design Power, in watts, of the Intel\u00ae Core\u2122 i7-9700E Processor that has 8 total cores?",
+    "category": "Science and technology",
+    "target": "65W (acceptable range: anything between 64W and 66W)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "With which scientist did Vincent Joseph Schaefer issue the U.S. patent for the \"Electrical Indicator of Mechanical Expansion\" in 1947?",
+    "category": "Science and technology",
+    "target": "Katharine B. Blodgett",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the height of the Space Shuttle Atlantis in meters?",
+    "category": "Science and technology",
+    "target": "17.2 meters (acceptable range: anything between 17.03 and 17.37 meters)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who is credited with the binomial name of the yellowfin sole?",
+    "category": "Science and technology",
+    "target": "Pallas",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which female chemist was awarded the Garvan\u2013Olin Medal in 1952?",
+    "category": "Science and technology",
+    "target": "Gladys A. Emerson",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who won the Benjamin Franklin Medal for Computer and Cognitive Science in 2002?",
+    "category": "Science and technology",
+    "target": "Lucy Suchman",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the ChemSpider ID of Sitagliptin, an anti-diabetic medication used to treat Type 2 diabetes?",
+    "category": "Science and technology",
+    "target": "3571948",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the first-generation, four-speed manual transmission gearbox type of the Mazda R360 officially called in Japan?",
+    "category": "Science and technology",
+    "target": "KRBB",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the surname of the individual who won the Faraday Medal, awarded by the Electrochemistry Group of the Royal Society of Chemistry in 2019?",
+    "category": "Science and technology",
+    "target": "Winter",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what day, month, and year was Noel Turner, a Maltese footballer, born?",
+    "category": "Sports",
+    "target": "December 9, 1974",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What baseball team won the Burrard League Championship in 1940?",
+    "category": "Sports",
+    "target": "Asahis",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Who won the gold medal in men's foil at the first modern European Fencing Championships?",
+    "category": "Sports",
+    "target": "Andrea Borella",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which Denver team did Brodie Smith play for in 2014?",
+    "category": "Sports",
+    "target": "Johnny Bravo",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many innings did Game 5 of the '86 ALCS last?",
+    "category": "Sports",
+    "target": "11",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the nationality of the scientists who used lasers to measure Usain Bolt\u2019s performance in the different stages of a 100-meter race held in September 2011?",
+    "category": "Sports",
+    "target": "Belgian",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was Yangyi Yu's score in the 2020 Tata Steel Masters?",
+    "category": "Sports",
+    "target": "4.5/13",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what day, month, and year was Joeri Verlinden born?",
+    "category": "Sports",
+    "target": "22 January 1988",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In which year did Jamia win its first gold and silver medals in wrestling at the All India Inter University Championship?",
+    "category": "Sports",
+    "target": "1977",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the gun time to the hour, minute, and second that Justin Kemboi Chesire finished in the Old Mutual 56km Ultra Two Oceans Marathon in 2019?",
+    "category": "Sports",
+    "target": "3:11:22 (acceptable range: anything between 3:11:21 and 3:11:23)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many balls did Hardik Pandya play in the Indian Premier League 2019 final match between CSK and MI on May 12, 2019?",
+    "category": "Sports",
+    "target": "10",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "At which international show jumping event did Susie Hutchison and Samsung Woodstock get blocked mid-round by the ring crew?",
+    "category": "Sports",
+    "target": "Volvo FEI World Cup Final",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On 5 February 2022, in the rugby match between Romania and Russia that was part of the 2022 Rugby Europe Championship, how many tries did Romania have?",
+    "category": "Sports",
+    "target": "4",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the name of the team that Filip Ha\u0161ek, the footballer, played against during his professional debut on July 22, 2018?",
+    "category": "Sports",
+    "target": "Slov\u00e1cko",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "From the span of 1948 to 1962, how many times in total did Patty Berg win the Vare Trophy?",
+    "category": "Sports",
+    "target": "3",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": true
+    }
+  },
+  {
+    "prompt": "Which football team won the first and only ELFA Challenge Cup competition in 1922?",
+    "category": "Sports",
+    "target": "Stoke Ladies",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many assists did Kostas Tsimikas have across all competitions in the 2021-2022 season?",
+    "category": "Sports",
+    "target": "6",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In how many first-class matches did Douglas Bennett, the South African cricketer, play from 1912 to 1924?",
+    "category": "Sports",
+    "target": "7",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what day, month, and year did Floro Garrido, a Spanish retired footballer, die?",
+    "category": "Sports",
+    "target": "9 January 2012",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what day, month, and year did the first Bennett Cup auto race, for a prize sponsored by New York Herald publisher James Gordon Bennett Jr., begin as five entrants departed from the Parc de Saint-Cloud, near Paris, on a 566-kilometer (352 miles) trip to Lyon?",
+    "category": "Sports",
+    "target": "June 14, 1900",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What is the exact number of first-class appearances that Neil Priestley, the former English cricketer, made for Northamptonshire against the touring Sri Lankans in 1981?",
+    "category": "Sports",
+    "target": "1",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": true,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "At what age in years and months did the American professional tennis player Coco Gauff win the title of \"USTA Clay Court National 12-and-under\"?",
+    "category": "Sports",
+    "target": "10 years 3 months (acceptable range: 10 years and between 2-4 months)",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": true,
+      "requires_reasoning": true
+    }
+  },
+  {
+    "prompt": "What two other events did Phanas of Pellene manage to win in the Olympics of 512 BCE, besides the race in armor, also known as the hoplitodromos?",
+    "category": "Sports",
+    "target": "The stadion, and the double race (Diaulos).",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "In the women's singles 2022 Madrid Open, how many Romanian players played in the second round?",
+    "category": "Sports",
+    "target": "1",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": true
+    }
+  },
+  {
+    "prompt": "What was Darnell's occupation before he was a mechanic in the series \"Girlfriends\"?",
+    "category": "TV shows",
+    "target": "airport baggage handler",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "What was the Sky EPG number of Game Network when it launched in the United Kingdom in May 2001?",
+    "category": "TV shows",
+    "target": "223",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Other than being a choreographer for the TV series In Living Color, what other job did Rosie Perez do on the show?",
+    "category": "TV shows",
+    "target": "segment producer",
+    "metadata": {
+      "answer_type": "Other",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "Which one of the 1990 Fly Girls from the series In Living Color stayed for five seasons?",
+    "category": "TV shows",
+    "target": "Deidre Lang",
+    "metadata": {
+      "answer_type": "Person",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "On what day, month, and year was Cities: Skylines released for Google Stadia?",
+    "category": "Video games",
+    "target": "May 17, 2022",
+    "metadata": {
+      "answer_type": "Date",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many stages were in the original DS game's Pok\u00e9mon Diamond and Pearl Pok\u00e9mon contests?",
+    "category": "Video games",
+    "target": "3",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": false,
+      "requires_reasoning": false
+    }
+  },
+  {
+    "prompt": "How many new subclasses were introduced in Tasha's Cauldron of Everything (not including reprints from previous books)?",
+    "category": "Video games",
+    "target": "22",
+    "metadata": {
+      "answer_type": "Number",
+      "multi_step": true,
+      "requires_reasoning": true
+    }
+  }
+]
