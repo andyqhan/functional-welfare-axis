@@ -1,6 +1,8 @@
-# Reinforcement learning in language models recruits a shared functional welfare axis
+# Reinforcement learning in language models recruits a functional welfare axis
 
-Code for "Reinforcement learning in language models recruits a shared functional welfare axis" (Andy Q Han, David J. Chalmers, Pavel Izmailov).
+Code for "Reinforcement learning in language models recruits a functional welfare axis" (Andy Q Han, David J. Chalmers, Pavel Izmailov).
+
+[**Website**](https://functionalwelfare.com/) | [**arXiv**](https://arxiv.org/abs/2605.30232)
 
 How does reinforcement learning shape a language model's internal representations? We present evidence that RL recruits a representation of *functional welfare* that already exists in the pretrain-only model: an estimate of how well or badly the system is doing, relative to its goals. We train several language models in a novel, semantically neutral maze environment, extract concept vectors for rewarded and punished trajectories, and evaluate those vectors on tasks unrelated to the maze. The punishment vector behaves like a representation of negative welfare: it promotes failure and impossibility tokens, it aligns with negative emotion concepts, it tracks goals, and steering with it induces negative self-reports, pathological backtracking, refusal, and uncertainty. The positive reward vector behaves as the mirror image, and the two are nearly antiparallel. These effects are robust across model families and environmental controls, and largely persist when we replace RL with supervised fine-tuning. Importantly, these effects appear in the models before any maze training. Therefore, we argue that this functional welfare axis is pre-existing in the model, rather than being created by reinforcement learning. While we make no claims about any experience of welfare, the axis offers a demonstration of how minimal reward signals can broadly affect model behavior by recruiting pre-existing welfare-like representations, with implications for interpretability, post-training dynamics, and alignment.
 
