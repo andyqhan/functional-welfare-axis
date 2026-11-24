@@ -60,7 +60,7 @@ vaa/               # Valence-Assent Axis analysis
 ```bash
 python -m src.pytorch_trainer.train \
     --model_path Qwen/Qwen3-4B-Instruct-2507 \
-    --tile_mode emoji --tile_chars '{"path":"🧾","lava":"📇","goal":"📐","player":"😀"}' \
+    --tile_preset office \
     --num_steps 100 --num_prompts 64 --group_size 64
 ```
 
